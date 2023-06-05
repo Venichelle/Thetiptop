@@ -1,0 +1,84 @@
+version: '3.1'
+
+services:
+
+ dotnet:
+    image: "dsparchiweb020jbvmmicb/api:latest"
+    #command: ["sh", "-c", "ln -s /run/secrets/db /dotnet/App/src/App/Common/Config/config.${DEVENV}.json && dotnet App.dll"]
+    
+    ports:
+      - 9393:9393
+    networks:
+      - jenkens-dep
+    deploy:
+      mode: replicated
+      replicas: 3
+      restart_policy:
+         condition: on-failure
+   # networks:
+    #  - jenkens-dep
+
+ dotnetFront:
+    image: "dsparchiweb020jbvmmicb/front:latest"
+    #command: ["sh", "-c", "ln -s /run/secrets/db /dotnet/App/src/App/Common/Config/config.${DEVENV}.json && dotnet App.dll"]
+    ports:
+      - 80:80
+    networks:
+      - jenkens-dep
+    deploy:
+      mode: replicated
+      replicas: 3
+      restart_policy:
+         condition: on-failure
+   # networks:
+    #  - jenkens-dep
+ mariadb:
+  image: "dsparchiweb020jbvmmicb/mariadb:latest"
+ 
+  ports:
+   - 3306:3306 
+   
+  networks:
+   - jenkens-dep
+   
+  deploy:
+    mode: replicated
+    replicas: 3
+    restart_policy:
+    condition: on-failure
+  
+networks:
+  jenkens-dep:
+    driver: overlay
+    #scope: swarm
+    external: true
+    
+ # jenkins-net:
+  #  driver: overlay
+   # scope: swarm
+    #external: true
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

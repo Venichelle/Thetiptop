@@ -1,0 +1,52 @@
+ 
+ 
+
+<div id="logreg-forms">
+    <form action="/signup/" class="form-signin bg-white" [formGroup]="formLogin">
+        <h1 class="h3 mb-3 font-weight-normal" style="text-align: center">Formulaire d'inscription</h1>
+
+        <input type="text"  formControlName="prenom" class="form-control"
+             placeholder="Prénom" required="" autofocus="" [ngClass]="{ 'is-invalid': submitted && f['prenom'].errors }">
+                <div *ngIf="submitted && f['prenom'].errors" class="invalid-feedback">
+                    <div *ngIf="f['prenom'].errors['required']">Vous devez saisir votre prénom</div>
+                </div><br/>
+
+        <input type="text"  class="form-control" formControlName="nom"
+             placeholder="Nom" required="" autofocus="" [ngClass]="{ 'is-invalid': submitted && f['nom'].errors }">
+                <div *ngIf="submitted && f['nom'].errors" class="invalid-feedback">
+                    <div *ngIf="f['nom'].errors['required']">Vous devez saisir votre nom</div>
+                </div><br/>
+
+        <input type="email"  class="form-control" formControlName="email" placeholder="Email"
+            required autofocus="" [ngClass]="{ 'is-invalid': submitted && f['email'].errors }">
+            <div *ngIf="submitted && f['email'].errors" class="invalid-feedback">
+                <div *ngIf="f['email'].errors['required']">Vous devez saisir l'email</div>
+                <div *ngIf="f['email'].errors['email']">Le format du mail est invalid</div>
+              </div><br/>
+              
+        <input type="password"  class="form-control" formControlName="password" placeholder="Mot de passe" 
+             autofocus="" [ngClass]="{ 'is-invalid': submitted && f['password'].errors }">
+                <div *ngIf="submitted && f['password'].errors" class="invalid-feedback">
+                    <div *ngIf="f['password'].errors['required']">Vous devez saisir votre mot de passe</div>
+                    <div *ngIf="f['password'].errors['minlength']">
+                        Votre mot de passe doit superieur à 6 carractères
+                    </div>
+                    <div *ngIf="f['password'].errors['maxlength']">
+                        Votre mot de passe doit inferieur à 20 carractères
+                    </div>
+                </div><br/>
+
+        <input type="password"  class="form-control" formControlName="confirmPassword" placeholder="Confirmer le mot de passe"
+            autofocus="" [ngClass]="{ 'is-invalid': submitted && f['confirmPassword'].errors }">
+                <div *ngIf="submitted && f['confirmPassword'].errors" class="invalid-feedback">
+                    <div *ngIf="f['confirmPassword'].errors['required']">Vous devez confrmer votre mot de passe</div>
+                    <div *ngIf="f['confirmPassword'].errors['matching']">
+                        Le mot de passe ne correspond pas
+                      </div>
+                    
+                </div>
+    
+        <button name="inscription" class="btn btn-outline-success btn-block" type="submit" (click)="signUp()"><i class="fas fa-user-plus"></i> S'inscrire</button>
+        <a href="login" id="cancel_signup"><i class="fas fa-angle-left"></i> Retour</a>
+    </form>
+</div>

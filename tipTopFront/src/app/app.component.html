@@ -1,0 +1,15 @@
+<div class="headear">
+  <app-headear></app-headear>
+
+</div>
+  <div class="main">
+    <router-outlet></router-outlet>
+  </div>
+  <div class="footer">
+  <app-footer *ngIf="connecterAdmin"></app-footer>
+</div>
+  <div class="footer-copyright">
+     <div class="text-center">
+        <p>Copyright © 2021 | ThéTipTop.</p>
+     </div>
+  </div>

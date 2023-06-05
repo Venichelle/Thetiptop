@@ -1,0 +1,60 @@
+<h1 class="mt-4">Lots</h1>
+                <ol class="breadcrumb mb-4">
+                    <li class="breadcrumb-item active">Liste des lots</li>
+                </ol>
+  <ng-template #content let-modal>
+    <div class="modal-header">
+      <h4 class="modal-title">{{modalTitre}}</h4>
+      <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+        <span aria-hidden="true">&times;</span>
+      </button>
+    </div>
+    <div class="modal-body">
+      <form [formGroup]="formLot">
+        <div class="form-group">
+          <label >Nom lot</label>
+          <div class="input-group">
+            <input type="text" class="form-control" formControlName="nomLot">
+          </div>
+        </div>
+        <div class="form-group">
+          <label >Description lot</label>
+          <div class="input-group">
+            <input type="text" class="form-control" formControlName="descriptionRole">
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="modal-footer">
+      <button type="button" class="btn btn-outline-success" (click)="ajoutOrModifierLot('modifier')">Enregistrer</button>
+      <button type="button" class="btn btn-outline-danger" (click)="modal.close('Save click')">Annuler</button>
+    </div>
+  </ng-template>
+
+  
+  <div class="card mb-4">
+    <div class="card-body">
+         <div class="table-responsive" style=" max-height: 400px;  overflow-y: auto;">
+            <table class="table table-striped" id="dataTable" width="100%" cellspacing="0">
+                <thead>
+                    <tr >
+                        <th>Nom</th>
+                        <th>Description</th>
+                        <th></th>
+                    </tr>
+                </thead>
+            
+                <tbody>
+                    <tr *ngFor="let lot of lots; index as i">
+                      <td>{{lot.nomLot}}</td>
+                      <td>{{lot.descriptionLot}}</td>
+                      <td>
+                        <button class="btn btn-outline-danger" (click)="deleteLot(lot.idlot)">Supprimer</button>
+                        <button class="btn btn-outline-success" (click)="openModalLot(content, 'modifier')">Modifer</button>
+                    </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div><br/> <br/> <br/>

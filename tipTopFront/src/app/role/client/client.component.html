@@ -1,0 +1,56 @@
+
+   
+<!-- modal coupon ok------------------------------------------------>  
+<hr />
+<ng-template #content let-c="close" let-d="dismiss" >
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">{{modalTitle}}</h4>
+    <button name="ferm" type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p>{{modalBody}}</p>
+  </div>
+  <div class="modal-footer">
+    <button name="ok" type="button" class="btn btn-outline-dark" (click)="c('Save click')">Ok</button>
+  </div>
+</ng-template>
+
+
+<div class="container">
+  
+<ngb-accordion #acc="ngbAccordion">
+  <ngb-panel id="toggle-1" title="Participer">
+    <ng-template ngbPanelContent>
+      <form [formGroup]="formparticipate">
+      <div class="row">
+        <div class="col-5">
+      <input type="text" class="form-control" id="inputcode"  formControlName="code" placeholder="Votre code">
+    </div>&nbsp;<button name="participer" type="submit" class="btn btn-success col-2" (click)="participate(content)">Participer</button>
+    </div>
+  </form>
+    </ng-template>
+  </ngb-panel>
+  <ngb-panel id="toggle-2" title="Historiques">
+    <ng-template ngbPanelContent>
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th scope="col">Libellé du lot</th>
+            <th scope="col">Description du lot</th>
+            <th scope="col">Date récuperation</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr  *ngFor="let hist of historiqueGains; index as i">
+            <td>{{hist.nomLot}}</td>
+            <td>{{hist.descriptionLot}}</td>
+            <td>{{hist.dateRecuperation}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </ng-template>
+  </ngb-panel>
+</ngb-accordion>
+</div>

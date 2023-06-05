@@ -1,0 +1,37 @@
+<div class="container"><br/>
+<div id="logreg-forms" *ngIf="!toto"> 
+    <form class="form-signin bg-white" [formGroup]="formLogin">
+        <h1 class="h3 mb-3 font-weight-normal" style="text-align: center">Formulaire de connexion</h1>
+        <div class="social-login">
+           <!-- <button class="btn facebook-btn social-btn" type="button"><span><i class="fab fa-facebook-f"></i> Veuillez entrer votre email</span> </button>
+            <button class="btn google-btn social-btn" type="button"><span><i class="fab fa-google-plus-g"></i> Se connecter avec Google+</span> </button> -->
+        </div>
+        <input type="email" class="form-control" placeholder="Adresse mail"
+             formControlName="email" [ngClass]="{ 'is-invalid': submitted && f['email'].errors }">
+             <div *ngIf="submitted && f['email'].errors" class="invalid-feedback">
+                <div *ngIf="f['email'].errors['required']">Vous devez saisir l'email</div>
+                <div *ngIf="f['email'].errors['email']">Le format du mail est invalid</div>
+              </div><br/>
+        <input type="password"  class="form-control" placeholder="Mot de passe" required="" 
+            formControlName="password" [ngClass]="{ 'is-invalid': submitted && f['password'].errors }">
+            <div *ngIf="submitted && f['password'].errors" class="invalid-feedback">
+                <div *ngIf="f['password'].errors['required']">Vous devez saisir le mot de passe</div>
+                <div *ngIf="f['password'].errors['minlength']">
+                    Le mot de passe doit superieur à 6 carractères
+                  </div>
+                  <div *ngIf="f['password'].errors['maxlength']">
+                    Le mot de passe doit inferieur à 6 carractères
+                  </div>
+              </div>
+        <button name="connexion" class="btn btn-outline-success btn-block" type="submit" (click)="logIn()"><i class="fas fa-sign-in-alt"></i> Se connecter</button>
+        <hr>
+
+        <button name="inscription" class="btn btn-primary btn-block" type="button" id="btn-success" (click)="register()"><i class="fas fa-user-plus"></i> Nouveau compte</button>
+        </form>
+        
+</div>
+ <app-sign-up *ngIf="toto"></app-sign-up> 
+
+</div>
+
+
