@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TestThetiptop": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}

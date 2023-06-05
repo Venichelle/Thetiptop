@@ -1,0 +1,44 @@
+<header class="header">
+  <nav class="navbar navbar-expand-lg fixed-top py-3 bg-white" >
+      <div class="container" >
+         <img src="../../assets/img/thelogoatif.png" width="5%" height="5%" alt="logosite">  
+          <button name="toclose" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler navbar-toggler-right"><i class="fa fa-bars"></i></button>
+          
+          <div id="navbarSupportedContent" class="collapse navbar-collapse">
+              <ul class="navbar-nav">
+                  <li class="nav-item active"><a href="#" class="nav-link text-uppercase font-weight-bold text-dark">Accueil</a></li>
+                  <li class="nav-item"><a href="aboutUs" class="nav-link text-uppercase font-weight-bold text-dark" *ngIf="!isConnected">Qui sommes-nous?</a></li>
+                  <li class="nav-item"><a href="jeu" class="nav-link text-uppercase font-weight-bold text-dark" *ngIf="!isConnected">Jeu concours</a></li>
+                  <li class="nav-item"><a href="contact" class="nav-link text-uppercase font-weight-bold text-dark" *ngIf="!isConnected" >Contact</a></li>
+              </ul>
+          </div>
+
+          <div id="navbarSupportedContent1" class="collapse navbar-collapse justify-content-end">
+            <ul class="navbar-nav ml-auto">   
+                <!-- <li class="nav-item" ><a href="login" class="nav-link text-uppercase font-weight-bold text-dark" *ngIf="!isConnected">Connexion</a></li>
+                  <li class="nav-item"><a href="sign-up" class="nav-link text-uppercase font-weight-bold text-dark" *ngIf="!isConnected">Inscription</a></li> -->
+                <li class="nav-item" ><a  class="nav-link  font-weight-bold text-dark" *ngIf="isConnected">Bienvenu {{userName}}</a></li>
+                <ul class="navbar-nav d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0" *ngIf="!isConnected">
+                  <li class="nav-item dropdown">
+                      <a class="nav-link dropdown-toggle" id="userDropdown" href="login" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
+                      <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+                  
+                          <a class="dropdown-item" href="login">Connexion</a>
+                          <hr/>
+                          <a class="dropdown-item" href="sign-up">Inscription</a>
+                      </div>
+                  </li>
+              </ul>
+              <ul class="navbar-nav d-none d-md-inline-block form-inline ml-auto mr-0 mr-md-3 my-2 my-md-0">
+                <li class="nav-item dropdown" *ngIf="isConnected">
+                    <a class="nav-link dropdown-toggle" id="userDropdown" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
+                    <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+                      <a  class="nav-link btn font-weight-bold text-dark" (click)="deconnexion()">Deconnexion</a>
+                    </div>
+                </li>
+            </ul>  
+            </ul>
+        </div>
+      </div>
+  </nav>
+</header>

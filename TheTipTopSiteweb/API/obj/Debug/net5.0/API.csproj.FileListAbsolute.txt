@@ -1,0 +1,501 @@
+/src/API/bin/Debug/net5.0/appsettings.Development.json
+/src/API/bin/Debug/net5.0/appsettings.json
+/src/API/bin/Debug/net5.0/API
+/src/API/bin/Debug/net5.0/API.deps.json
+/src/API/bin/Debug/net5.0/API.runtimeconfig.json
+/src/API/bin/Debug/net5.0/API.runtimeconfig.dev.json
+/src/API/bin/Debug/net5.0/API.dll
+/src/API/bin/Debug/net5.0/ref/API.dll
+/src/API/bin/Debug/net5.0/API.pdb
+/src/API/bin/Debug/net5.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/src/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/src/API/bin/Debug/net5.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/src/API/bin/Debug/net5.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/src/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+/src/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/src/API/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+/src/API/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+/src/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Core.dll
+/src/API/bin/Debug/net5.0/Microsoft.Extensions.Identity.Stores.dll
+/src/API/bin/Debug/net5.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/src/API/bin/Debug/net5.0/Microsoft.IdentityModel.Logging.dll
+/src/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.dll
+/src/API/bin/Debug/net5.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/src/API/bin/Debug/net5.0/Microsoft.IdentityModel.Tokens.dll
+/src/API/bin/Debug/net5.0/Microsoft.OpenApi.dll
+/src/API/bin/Debug/net5.0/MySqlConnector.dll
+/src/API/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+/src/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.Swagger.dll
+/src/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/src/API/bin/Debug/net5.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/src/API/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/src/API/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
+/src/API/bin/Debug/net5.0/xunit.abstractions.dll
+/src/API/bin/Debug/net5.0/xunit.assert.dll
+/src/API/bin/Debug/net5.0/xunit.core.dll
+/src/API/bin/Debug/net5.0/xunit.execution.dotnet.dll
+/src/API/obj/Debug/net5.0/API.csproj.AssemblyReference.cache
+/src/API/obj/Debug/net5.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/src/API/obj/Debug/net5.0/API.AssemblyInfoInputs.cache
+/src/API/obj/Debug/net5.0/API.AssemblyInfo.cs
+/src/API/obj/Debug/net5.0/API.csproj.CoreCompileInputs.cache
+/src/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cs
+/src/API/obj/Debug/net5.0/API.MvcApplicationPartsAssemblyInfo.cache
+/src/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.Manifest.cache
+/src/API/obj/Debug/net5.0/staticwebassets/API.StaticWebAssets.xml
+/src/API/obj/Debug/net5.0/scopedcss/bundle/API.styles.css
+/src/API/obj/Debug/net5.0/API.RazorTargetAssemblyInfo.cache
+/src/API/obj/Debug/net5.0/API.csproj.CopyComplete
+/src/API/obj/Debug/net5.0/API.dll
+/src/API/obj/Debug/net5.0/ref/API.dll
+/src/API/obj/Debug/net5.0/API.pdb
+/src/API/obj/Debug/net5.0/API.genruntimeconfig.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\appsettings.json
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.exe
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.deps.json
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\refint\API.dll
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\mouhc\Desktop\Nouveau dossier\JeuxConcourt\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\appsettings.json
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.exe
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.deps.json
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\refint\API.dll
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\mouhc\Desktop\MouhcineIFOULSWorkflow\JeuxConcourt\JeuxConcourt\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\appsettings.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.exe
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.deps.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\refint\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\appsettings.json
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\API.exe
+C:\Users\atif.nabil\source\repos\JeuxConcours\API\bin\Debug\net5.0\API.deps.json
+C:\Users\atif.nabil\source\repos\JeuxConcours\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\atif.nabil\source\repos\JeuxConcours\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcours\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\API.pdb
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\atif.nabil\source\repos\JeuxConcours\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\Source\Repos\JeuxConcours\API\obj\Debug\net5.0\API.pdb
+C:\Users\atif.nabil\source\repos\JeuxConcours\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\appsettings.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.exe
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.deps.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\API.pdb
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.pdb
+C:\Users\atif.nabil\source\repos\JeuxConcourt\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\appsettings.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.exe
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.deps.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\refint\API.dll
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.pdb
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Users\mouhc\Desktop\Exam\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.AssemblyReference.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.pdb
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.StaticWebAssets.xml
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\appsettings.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.exe
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.deps.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.runtimeconfig.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\ref\API.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\API.pdb
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Humanizer.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\MySqlConnector.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.abstractions.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.assert.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.core.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.CopyComplete
+C:\Users\atif.nabil\source\repos\JeuxConcourt\TheTipTopSiteweb\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\ref\API.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.pdb
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\appsettings.Development.json
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\appsettings.json
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\API.exe
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\API.deps.json
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\API.runtimeconfig.json
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\API.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\ref\API.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\API.pdb
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Humanizer.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\MySqlConnector.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.NetCore.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.NetStandard.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Prometheus.AspNetCore.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.abstractions.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.assert.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.core.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\bin\Debug\net5.0\xunit.execution.dotnet.dll
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.AssemblyInfoInputs.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.AssemblyInfo.cs
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.CoreCompileInputs.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.Manifest.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\staticwebassets\API.StaticWebAssets.xml
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\scopedcss\bundle\API.styles.css
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.RazorTargetAssemblyInfo.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csproj.CopyComplete
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+D:\Rat_thetiptop 12 12 22\JeuxConcours_Thetiptop\TheTipTopSiteweb\API\obj\Debug\net5.0\API.csprojAssemblyReference.cache

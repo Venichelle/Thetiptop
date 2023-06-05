@@ -1,0 +1,208 @@
+<div class="container">
+<h1 class="mt-4">Utilisateurs</h1>
+<ol class="breadcrumb mb-4">
+    <li class="breadcrumb-item active">Gestion des utilisateurs
+    </li>
+</ol>
+<form>
+  <div class="form-group form-inline">
+      Chercher utilisateur: <input class="form-control ml-2" type="text" [formControl]="filter"/>
+  </div>
+  <button name="ajouter" class="btn btn-outline-success" (click)="openModalAddUser(contentAddUser)">Ajouter un nouveau utilisateur</button>
+</form>
+
+<div class="table-responsive" style=" max-height: 300px;  overflow-y: auto;">
+<table class="table table-striped">
+  <thead>
+  <tr>
+    <th scope="col">#</th>
+    <th scope="col">Nom</th>
+    <th scope="col">Prenom</th>
+    <th scope="col">Email</th>
+    <th scope="col">Options</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr *ngFor="let user of users; index as i">
+    <th scope="row">{{ i + 1 }}</th>
+    <td>
+      <ngb-highlight [result]="user.nom" [term]="filter.value"></ngb-highlight>
+    </td>
+    <td><ngb-highlight [result]="user.prenom" [term]="filter.value"></ngb-highlight></td>
+    <td><ngb-highlight [result]="user.email" [term]="filter.value"></ngb-highlight></td>
+    <td><button name="modif" class="btn btn-success" (click)="openModal(content, user)">Modifer rôle</button>
+      &nbsp;
+      <button name="sup" class="btn btn-danger" (click)="supprimerUtilisateur(user.email)">Supprimer</button>
+    
+    </td>
+  </tr>
+  </tbody>
+</table>
+</div>
+
+<!--Modal modifier Role ------------------------------------------------->
+<ng-template #content let-modal>
+  <div class="modal-header">
+    <h4 class="modal-title">Modifier le rôle</h4>
+    <button type="button" class="close" aria-label="Close" (click)="modal.dismiss('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="formUpdatRole">
+      <div class="form-group">
+        <label >Nom</label>
+        <div class="input-group">
+          <input type="text" class="form-control" value={{user.nom}}  disabled={{enabled}}>
+        </div>
+      </div>
+      <div class="form-group">
+        <label >Prénom</label>
+        <div class="input-group">
+          <input type="text" class="form-control" value={{user.prenom}} disabled={{enabled}}>
+        </div>
+      </div>
+      <div class="form-group">
+        <label >Mail</label>
+        <div class="input-group">
+          <input type="text" class="form-control" value={{user.email}} disabled={{enabled}}>
+        </div>
+      </div>
+      <div class="form-group">
+        <label >Rôle</label>
+          <select class="form-select input-group" multiple aria-label="multiple select example" formControlName="role">
+            <option value="admin">Admin</option>
+            <option value="huissier">Huissier</option>
+            <option value="client">Client</option>
+            <option value="employe">Employe</option>
+          </select>
+      </div>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button name="add" type="button" class="btn btn-outline-success" (click)="changerRole(user, modifierRole)">Enregistrer</button>
+    <button name="annul" type="button" class="btn btn-outline-danger" (click)="modal.close('Save click')">Annuler</button>
+  </div>
+</ng-template>
+
+<!--Modal Ajou Utilisateur ------------------------------------------------->
+<ng-template #contentAddUser let-modalAddUser>
+  <div class="modal-header">
+    <h4 class="modal-title">Ajouter un nouveau utilisateur</h4>
+    <button type="button" class="close" aria-label="Close" (click)="modalAddUser.dismiss('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <form [formGroup]="formUpdatRole">
+      <div class="row mb-3">
+        <label for="inputEmail3" class="col-sm-2 col-form-label" >Nom: </label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control" id="inputEmail3" formControlName="nom">
+        </div>
+      </div>
+      <div class="row mb-3">
+        <label class="col-sm-2 col-form-label" >Prénom: </label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control"  formControlName="prenom">
+        </div>
+      </div>
+      <div class="row mb-3">
+        <label class="col-sm-2 col-form-label" >Email: </label>
+        <div class="col-sm-10">
+          <input type="email" class="form-control" formControlName="email">
+        </div>
+      </div>
+      <div class="row mb-3">
+        <label class="col-sm-2 col-form-label" >Adresse: </label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control"  formControlName="adresse">
+        </div>
+      </div>
+      <div class="row mb-3">
+        <label class="col-sm-2 col-form-label" >Ville: </label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control"  formControlName="ville" >
+        </div>
+      </div>
+      <div class="row mb-3">
+        <label  class="col-sm-2 col-form-label" >Code postale: </label>
+        <div class="col-sm-10">
+          <input type="text" class="form-control"  formControlName="postale">
+        </div>
+      </div>
+      <fieldset class="row mb-3">
+        <label  class="col-sm-2 col-form-label">Rôle: </label>
+        <div class="col-sm-10">
+          <div class="form-check">
+            <input class="form-check-input" type="radio" value="admin" formControlName="role">
+            <label class="form-check-label">
+              Admin
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" value="huissier" formControlName="role">
+            <label class="form-check-label" >
+              Huissier
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio"  value="employe" formControlName="role">
+            <label class="form-check-label" >
+              Employé
+            </label>
+          </div>
+        </div>
+      </fieldset>
+    </form>
+  </div>
+  <div class="modal-footer">
+    <button name="enreg" type="button" class="btn btn-outline-success" (click)="addUser(modalOk)">Enregistrer</button>
+    <button name="anul" type="button" class="btn btn-outline-danger" (click)="modalAddUser.close('Save click')">Annuler</button>
+  </div>
+</ng-template>
+<!--Compte ajouté ------------------------------------------------->
+
+<ng-template #modalOk let-c="close" let-d="dismiss">
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Compte ajouté !</h4>
+    <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p >
+      <ngb-alert>Votre compte est bien ajouté</ngb-alert>
+    </p>
+    <p>
+    <p>vos accées: </p>
+    <p>email: {{person?.user}}  </p>
+    <p>Votre mot de passe temporaire : 
+      <button type="button" class="btn btn-outline-danger mr-2" placement="top"
+      ngbPopover="{{person?.password}}" popoverTitle="Mot de passe temporaire">
+      cliquez-ici</button>
+    </p>
+  </div>
+  <div class="modal-footer">
+    <button type="button" class="btn btn-outline-dark" (click)="c('Save click')">Ok</button>
+  </div>
+</ng-template>
+
+<!--Rôle modifé ------------------------------------------------->
+
+<ng-template #modifierRole let-c="close" let-d="dismiss">
+  <div class="modal-header">
+    <h4 class="modal-title" id="modal-basic-title">Modification rôle</h4>
+    <button type="button" class="close" aria-label="Close" (click)="d('Cross click')">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="modal-body">
+    <p>Le rôle {{role?.roles}} a été bien modifé pour l'utilisateur {{role?.email}}</p>
+  </div>
+  <div class="modal-footer">
+    <button name="ko"   type="button" class="btn btn-outline-success" (click)="c('Save click')">Ok</button>
+  </div>
+</ng-template>
+
+</div><br/> <br/> <br/>
