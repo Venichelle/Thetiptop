@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  backendServer: "https://api.dev.dsp-archiweb020-vm.fr",
+  backendServer: "https://api.preprod.dsp-archiweb020-vm.fr",
   login: "/login",
   genereateTicket: "/api/Admin/Genererticket",
   getLots: "/api/Lots",

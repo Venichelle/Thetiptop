@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  backendServer: "https://api.dev.dsp-archiweb020-vm.fr",
+  backendServer: "https://api.preprod.dsp-archiweb020-vm.fr",
   login: "/login",
   genereateTicket: "/api/Admin/Genererticket",
   getLots: "/api/Lots",
